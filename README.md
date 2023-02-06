@@ -1,8 +1,8 @@
 ### Hi there / ola 👋
 
-- 🔭 estagiando
+- 🔭 Trabalhando
 - 🌱 Estudando TI
-- 📫 Fazendo faculdade de jogos digitais
+- 📫 Faculdade de jogos digitais
 - 😄 Muito coperativo
 
 </div>
