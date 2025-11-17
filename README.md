@@ -3,6 +3,7 @@
 - 🔭 Trabalhando
 - 🌱 Estudando TI
 - 📫 Faculdade de jogos digitais
+- 📫 Pós-graduação em Análise e Desenvolvimento de Sistemas
 - 😄 Muito coperativo
 
 </div>
