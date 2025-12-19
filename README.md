@@ -25,8 +25,8 @@
   
   <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
-  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/ouvermax/count.svg" />
- </p>
+// ## Total de Visitas no perfil :detective: <br>
+ // <p align="center"> 
+  // <img alingn="center" src="https://profile-counter.glitch.me/ouvermax/count.svg" />
+// </p>
 </div>
