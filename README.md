@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/gabriel-ecclissi-79331b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-![Snake animation](https://github.com/ouvermax/ouvermax/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gecclissi/gecclissi/blob/output/github-contribution-grid-snake.svg)
   
   <p align="center"> 
 
